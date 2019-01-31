@@ -1,0 +1,79 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav > li.navbar-right {
+    float: right !important;
+  }
+.jumbotron-fluid{
+    color:whitesmoke;
+    background-image: url("jumping.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+#lineup-header {
+    background-image: url("audience-hands.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+
+#experience-header {
+    background-image: url("couple.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+
+#faq-header {
+    background-image: url("afternoon.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+
+.jumbotron-heading {
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+
+.welcomebox{
+    margin-left: 0;
+}
+.container .content {
+    background: rgba(0, 0, 0, 0.5); 
+    padding: 10px; 
+}
+.alert-warning {
+    color: #9e340a;
+    background-color: #ffcfcd;
+    border-color: #ffcfcd;
+    text-align: center;
+}
+.footer {
+    font-size: 12px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-style: bold;
+    color: darkslategray;
+
+}
+
+.col-md-4 {
+    padding: 8px;
+
+}
+
+.rounded-circle {
+    padding: 5px;
+    width: 180px;
+}
